@@ -1,8 +1,5 @@
 ﻿#pragma once
 
-#ifndef QUADRILATERAL_H
-#define QUADRILATERAL_H
-
 #include "Figure.h"
 
 //Четырёхугольник.
@@ -34,6 +31,3 @@ public:
 
     void printInfo() const;
 };
-
-#endif
-

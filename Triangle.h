@@ -1,8 +1,5 @@
 ﻿#pragma once
 
-#ifndef TRIANGLE_H
-#define TRIANGLE_H
-
 #include "Figure.h"
 
 //Треугольник.
@@ -32,5 +29,3 @@ public:
     //Вывод всех треугольчиков.
     void printInfo() const;
 };
-
-#endif

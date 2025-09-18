@@ -1,8 +1,5 @@
 ﻿#pragma once
 
-#ifndef FIGURE_H
-#define FIGURE_H
-
 #include <iostream> 
 #include <string>
 
@@ -17,5 +14,3 @@ public:
     //Название фигур.
     std::string get_name() const;
 };
-
-#endif
